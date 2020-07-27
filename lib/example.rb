@@ -6,3 +6,7 @@ def greeting_ten_times
 end
 
 greeting_ten_times
+greeting_ten_times
+greeting_ten_times
+greeting_ten_times
+greeting_ten_times
